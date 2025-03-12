@@ -1,0 +1,59 @@
+name: Update README with Idea Changes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'ideas/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'ideas/**'
+
+jobs:
+  update-readme:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Debug modified or added files
+        run: |
+          echo "Modified or added files:"
+          git diff --no-commit-id --name-only --diff-filter=AM -r HEAD -- 'ideas/'
+
+      - name: Find and process all Markdown files
+        run: |
+          # Find all Markdown files in the ideas/ directory
+          IDEA_FILES=$(find ideas/ -type f -name '*.md')
+          if [ -z "$IDEA_FILES" ]; then
+            echo "No idea files found."
+            exit 0
+          fi
+
+          # Pass all files to the Python script
+          echo "Processing files: $IDEA_FILES"
+          python scripts/parse_idea.py "$IDEA_FILES"
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes to README.md. Skipping commit."
+          else
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "Update README with idea changes"
+            git push
+          fi
