@@ -1,6 +1,6 @@
-# 🚀 WhatToBuild
+# Idea List
 
-Welcome to the **WhatToBuild**! This is a place to share, discuss, and collaborate on innovative ideas in the Web3 space. Whether you have a groundbreaking DeFi concept, a novel DAO governance model, or a revolutionary NFT use case, we'd love to hear about it!
+Welcome to the **Awesome Ideas Collection**! This is a place to share, discuss, and collaborate on innovative ideas in the Web3 space. Whether you have a groundbreaking DeFi concept, a novel DAO governance model, or a revolutionary NFT use case, we'd love to hear about it!
 
 This is a great idea.
 
@@ -16,11 +16,11 @@ This is a great idea.
 5. Submit a Pull Request
 6. After review and merge, your idea will be automatically added to this list
 
-
 ## 🔍 Ideas List
 
 | Idea | Description | Tags | Contributors | Status |
 | ---- | ----------- | ---- | ------------ | ------ |
+| [一键跨链资产转移](ideas/one_click_cross_chain_asset_transfer.md) | 一键实现各种资产（Token、NFT等）的跨链转移 | `Infra`, `Wallet`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth), [Coooder-Crypto](https://github.com/Coooder-Crypto) | 🔴 [todo] |
 
 ## 📊 Status Legend
 
@@ -30,4 +30,4 @@ This is a great idea.
 
 ---
 
-*Last updated: 2025-03-12 01:32:24*
+*Last updated: 2025-03-12 14:54:23*
