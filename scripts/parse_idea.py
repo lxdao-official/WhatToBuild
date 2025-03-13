@@ -78,9 +78,9 @@ def generate_readme_content(ideas):
     """Generate the content for the README.md file."""
     # Start with the header
     content = [
-        "# Idea List",
+        "# 🚀 WhatToBuild",
         "",
-        "Welcome to the **Awesome Ideas Collection**! This is a place to share, discuss, and collaborate on innovative ideas in the Web3 space. Whether you have a groundbreaking DeFi concept, a novel DAO governance model, or a revolutionary NFT use case, we'd love to hear about it!",
+        "Welcome to the **WhatToBuild**! This is a place to share, discuss, and collaborate on innovative ideas in the Web3 space. Whether you have a groundbreaking DeFi concept, a novel DAO governance model, or a revolutionary NFT use case, we'd love to hear about it!",
         "",
         "This is a great idea.",
         "",
