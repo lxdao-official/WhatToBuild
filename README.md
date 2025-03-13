@@ -20,7 +20,10 @@ This is a great idea.
 
 | Idea | Description | Tags | Contributors | Status |
 | ---- | ----------- | ---- | ------------ | ------ |
+| [AI 提案判断框架](ideas/ai_proposal_framwork.md) | AI 对提案进行清晰化整理，便于成员判断提案内容 | `Infra`, `DAO`, `AI` | [MRzzz-cyber](https://github.com/MRzzz-cyber) | 🔴 [todo] |
+| [Public Goods Directory](ideas/public_goods_directory.md) | 对公共物品的价值、公共性进行系统性的客观衡量 | `Infra`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth), [Coooder-Crypto](https://github.com/Coooder-Crypto) | 🔴 [todo] |
 | [一键跨链资产转移](ideas/one_click_cross_chain_asset_transfer.md) | 一键实现各种资产（Token、NFT等）的跨链转移 | `Infra`, `Wallet`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth), [Coooder-Crypto](https://github.com/Coooder-Crypto) | 🔴 [todo] |
+| [桌面端 Wallet 工具](ideas/desktop_wallet_tool.md) | 一个安全且功能强大的桌面钱包应用程序，并配备加密工具插件生态系统 | `Infra`, `PublicGoods`, `Wallet`, `Security`, `Privacy` | [crazyyuan](https://github.com/crazyyuan) | 🔴 [todo] |
 
 ## 📊 Status Legend
 
@@ -30,4 +33,4 @@ This is a great idea.
 
 ---
 
-*Last updated: 2025-03-12 14:54:23*
+*Last updated: 2025-03-13 09:27:15*
