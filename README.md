@@ -21,8 +21,14 @@ This is a great idea.
 | Idea | Description | Tags | Contributors | Status |
 | ---- | ----------- | ---- | ------------ | ------ |
 | [AI 提案判断框架](ideas/ai_proposal_framwork.md) | AI 对提案进行清晰化整理，便于成员判断提案内容 | `Infra`, `DAO`, `AI` | [MRzzz-cyber](https://github.com/MRzzz-cyber) | 🔴 [todo] |
+| [Hackerscan](ideas/hackerscan.md) | 轻量级 EVM 区块链浏览器，专为本地测试网设计，提供简单的界面，支持通过单一 RPC 接口查询区块链数据 | `Infra`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth) | 🔴 [todo] |
+| [IAO(intelligent autonomous organization)](ideas/intelligent_autonomous_organization.md) | AI 自治组织 | `Infra`, `DAO`, `AI` | [MRzzz-cyber](https://github.com/MRzzz-cyber) | 🔴 [todo] |
 | [Public Goods Directory](ideas/public_goods_directory.md) | 对公共物品的价值、公共性进行系统性的客观衡量 | `Infra`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth), [Coooder-Crypto](https://github.com/Coooder-Crypto) | 🔴 [todo] |
+| [tempaddr generator](ideas/temaddr_generate.md) | 一个支持生成临时钱包地址的工具，自动生成私钥和公钥，并根据用户需求转入指定数量和类型的测试币 | `Infra`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth), [Coooder-Crypto](https://github.com/Coooder-Crypto) | 🔴 [todo] |
 | [一键跨链资产转移](ideas/one_click_cross_chain_asset_transfer.md) | 一键实现各种资产（Token、NFT等）的跨链转移 | `Infra`, `Wallet`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth), [Coooder-Crypto](https://github.com/Coooder-Crypto) | 🔴 [todo] |
+| [保险 DAO](ideas/insurance_dao.md) | 创建一个健康保险DAO，以应对当前医疗系统的弊端。 | `DAO`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth), [Coooder-Crypto](https://github.com/Coooder-Crypto) | 🔴 [todo] |
+| [去中心化排序器](ideas/decentralized_sorter.md) | 通过社区投票确定相关事项的优先级 | `Infra`, `PublicGoods`, `DAO` | [brucexu-eth](https://github.com/brucexu-eth), [Soleil-YSY](https://github.com/Soleil-YSY) | 🔴 [todo] |
+| [去中心化约会议](ideas/decentralized_meeting.md) | 用最简单的方式约会议 | `Infra`, `PublicGoods`, `DAO`, `Social` | [brucexu-eth](https://github.com/brucexu-eth), [Soleil-YSY](https://github.com/Soleil-YSY) | 🔴 [todo] |
 | [桌面端 Wallet 工具](ideas/desktop_wallet_tool.md) | 一个安全且功能强大的桌面钱包应用程序，并配备加密工具插件生态系统 | `Infra`, `PublicGoods`, `Wallet`, `Security`, `Privacy` | [crazyyuan](https://github.com/crazyyuan) | 🔴 [todo] |
 
 ## 📊 Status Legend
@@ -33,4 +39,4 @@ This is a great idea.
 
 ---
 
-*Last updated: 2025-03-13 09:27:15*
+*Last updated: 2025-03-14 02:44:25*
