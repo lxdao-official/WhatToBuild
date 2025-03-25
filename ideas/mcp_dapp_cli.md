@@ -24,7 +24,7 @@ status: "[todo]"  # Current status of the idea
 
 ## How
 1. 调研整理目前普适性的合约、前端、测试工具，并进行模板的整合。
-2. 基于 [mcp-clits-sdk](https://github.com/modelcontextprotocol/typescript-sdk) 开发脚手架的核心服务。
+2. 基于 [mcp-ts-sdk](https://github.com/modelcontextprotocol/typescript-sdk) 开发脚手架的核心服务。
 3. 上架各IDE插件市场与mcp生态社区。
 
 ## Related Materials
