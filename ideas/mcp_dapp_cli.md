@@ -28,5 +28,5 @@ status: "[todo]"  # Current status of the idea
 3. 上架各IDE插件市场与mcp生态社区。
 
 ## Related Materials
-https://github.com/base/base-mcp/issues
-https://github.com/modelcontextprotocol/typescript-sdk
+- https://github.com/base/base-mcp/issues
+- https://github.com/modelcontextprotocol/typescript-sdk
