@@ -23,7 +23,7 @@ This is a great idea.
 | [AI 提案判断框架](ideas/ai_proposal_framwork.md) | AI 对提案进行清晰化整理，便于成员判断提案内容 | `Infra`, `DAO`, `AI` | [MRzzz-cyber](https://github.com/MRzzz-cyber) | 🔴 [todo] |
 | [Hackerscan](ideas/hackerscan.md) | 轻量级 EVM 区块链浏览器，专为本地测试网设计，提供简单的界面，支持通过单一 RPC 接口查询区块链数据 | `Infra`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth) | 🔴 [todo] |
 | [IAO(intelligent autonomous organization)](ideas/intelligent_autonomous_organization.md) | AI 自治组织 | `Infra`, `DAO`, `AI` | [MRzzz-cyber](https://github.com/MRzzz-cyber) | 🔴 [todo] |
-| [Lx虚拟卡](ideas/lx_virtual_card.md) | 专为Lx自由职业者和远程工作者设计的虚拟支付卡系统，解决跨境收付款、多币种管理等痛点 | `DeFi`, `Wallet`, `Privacy`, `Security` | [crazyyuan](https://github.com/crazyyuan) | 🔴 [todo] |
+| [Lx虚拟卡](ideas/lx_virtual_card.md) | 专为Lx自由职业者和远程工作者设计的虚拟支付卡系统，解决跨境收付款、多币种管理等痛点 | `DeFi`, `Wallet`, `Privacy`, `Security` | [China-Chris](https://github.com/China-Chris) | 🔴 [todo] |
 | [MCP Dapp开发脚手架](ideas/mcp_dapp_cli.md) | 一个整合链上数据查询、交互、前端UI代码生成的Mcp服务开发脚手架 | `Dev`, `Mcp`, `Dapp` | [BiscuitCoder](https://github.com/BiscuitCoder) | 🔴 [todo] |
 | [Public Goods Directory](ideas/public_goods_directory.md) | 对公共物品的价值、公共性进行系统性的客观衡量 | `Infra`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth), [Coooder-Crypto](https://github.com/Coooder-Crypto) | 🔴 [todo] |
 | [tempaddr generator](ideas/temaddr_generate.md) | 一个支持生成临时钱包地址的工具，自动生成私钥和公钥，并根据用户需求转入指定数量和类型的测试币 | `Infra`, `PublicGoods` | [brucexu-eth](https://github.com/brucexu-eth), [Coooder-Crypto](https://github.com/Coooder-Crypto) | 🔴 [todo] |
@@ -41,4 +41,4 @@ This is a great idea.
 
 ---
 
-*Last updated: 2025-04-02 02:59:49*
+*Last updated: 2025-04-18 02:12:42*
